@@ -1,1 +1,1 @@
-my first bash script
+this sample script show you your current path
