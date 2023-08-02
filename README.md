@@ -1,0 +1,1 @@
+this sample script show you where is your path now
