@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod $0lleh_mode hello
+chmod --reference=hello olleh
+
